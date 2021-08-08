@@ -1,0 +1,25 @@
+.stoneStyle {
+    border-radius: 35px;
+    width: 35px;
+    height: 35px;
+    margin: auto;
+    box-shadow: 3px 3px 3px grey;
+    display: flex;
+    position: absolute;
+    z-index: 2;
+    top: 6px;
+    left: 6px;
+}
+
+.holeStyle {
+    border-radius: 35px;
+    width: 50%;
+    height: 50%;
+    display: flex;
+    margin: auto;
+    box-shadow: -1px -1px 10px black;
+}
+
+.hoverStyle {
+    border: 2.5px solid rgb(255, 0, 0);
+}

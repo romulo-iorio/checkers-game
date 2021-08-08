@@ -1,0 +1,12 @@
+.backgroundStyle {
+    display: flex;
+    background-color: #444;
+    height: 100vh;
+    width: auto;
+}
+
+.boardStyle {
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+}
